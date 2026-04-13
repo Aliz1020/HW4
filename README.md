@@ -1,12 +1,7 @@
-# AI-Agent-SRL-RAG-Programming-Study (N=80)
-### A Study on the Impact of an AI Agent Integrated with SRL Scaffolding and RAG on High School Students’ Programming Learning
-### Researcher: [CHIHHSUAN HSU](https://github.com/Aliz1020)
-
----
 
 # AI-Agent-SRL-RAG-Programming-Study (N=80)
 ### A Study on the Impact of AI Agents with Self-Regulated Learning Processes and Retrieval-Augmented Generation on High School Students’ Learning Performance and Attitudes in Hands-on Activity
-### Instructor: [Chih-Hsuan Hsu](https://github.com/your-account)
+### Instructor: [Chih-Hsuan Hsu](https://github.com/Aliz1020)
 
 ## 📝 Project Overview
 This repository contains the dataset and analysis for a quasi-experimental study investigating how an AI agent integrated with Self-Regulated Learning (SRL) processes and Retrieval-Augmented Generation (RAG) functions as an intelligent pedagogical scaffold for high school students in programming education.
